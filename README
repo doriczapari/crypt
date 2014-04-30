@@ -1,0 +1,3 @@
+This code is what we learnt in Unit 2 of Design of Computer Programs at Udacity.com (https://www.udacity.com/course/cs212). Some of it was presented to us in the lesson as it is, but about 90% of it is my own work. 
+
+The code solves cryptarithmetic problems like this: in the formula 'ODD + ODD == EVEN', what digit does each letter stand for so we have an equation that makes sense? (The answer is Either '655 + 655 == 1310', or '855 + 855 == 1710'.)
